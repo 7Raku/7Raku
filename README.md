@@ -2,7 +2,7 @@
 
 # Hi, I'm Raku
 
-*Developer based in Stuttgart, Germany — I build small, focused tools, mostly in Zig.*
+*Developer based in Stuttgart, Germany - I build small, focused tools, mostly in Zig.*
 
 ![OS](https://img.shields.io/badge/OS-Windows-2b2b2b?style=flat-square&logo=windows11&logoColor=white)
 ![Editor](https://img.shields.io/badge/Editor-Zed-2b2b2b?style=flat-square&logo=zedindustries&logoColor=white)
@@ -19,32 +19,43 @@
 
 ## About
 
-I like tools that do **one thing well** — small, fast, and easy to read through in a single sitting. Most of what I build starts the same way: I want to understand *how* something works, so I write a smaller version of it myself.
+I like tools that do **one thing well** - small, fast, and easy to read through in a single sitting. Most of what I build starts the same way: I want to understand *how* something works, so I write a smaller version of it myself.
 
 Right now that means going deeper into **Zig** and low-level programming, working mainly on **Windows** with **Zed** as my editor of choice.
 
 ---
 
-## Projects
+<h2 style="margin-bottom:0">Projects</h2>
 
-<table>
+<table style="margin-top:0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-top:8px">
 
-### [owlsh](https://github.com/7Raku/owlsh)
+<h3 style="margin-top:0">
 
-A tiny, fast, customizable shell for Windows — built to be lightweight without giving up flexibility.
+[owlsh](https://github.com/7Raku/owlsh)
 
-![Code](https://img.shields.io/badge/-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
+</h3>
+
+A tiny, fast, customizable shell for Windows - built to be lightweight without giving up flexibility.
+
+![Code](https://img.shields.io/badge/Code-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Windows-2b2b2b?style=flat-square&logo=windows11&logoColor=white)
+![Type](https://img.shields.io/badge/Type-Shell-2b2b2b?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-top:8px">
 
-### [wczig](https://github.com/7Raku/wczig)
+<h3 style="margin-top:0">
 
-A small `wc`-inspired CLI tool that counts lines, words, and bytes — written as a hands-on way to learn Zig.
+[wczig](https://github.com/7Raku/wczig)
 
-![Code](https://img.shields.io/badge/-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
+</h3>
+
+A small `wc`-inspired CLI tool that counts lines, words, and bytes - written as a hands-on way to learn Zig.
+
+![Code](https://img.shields.io/badge/Code-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
+![Type](https://img.shields.io/badge/Type-CLI-2b2b2b?style=flat-square&logo=windowsterminal&logoColor=white)
 
 </td>
 </tr>
