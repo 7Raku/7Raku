@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hi, I'm Raku
-Developer based in Stuttgart, Germany. I build small tools and utilities, mostly in Zig.
+
+*Developer based in Stuttgart, Germany — I build small, focused tools, mostly in Zig.*
 
 ![OS](https://img.shields.io/badge/OS-Windows-2b2b2b?style=flat-square&logo=windows11&logoColor=white)
 ![Editor](https://img.shields.io/badge/Editor-Zed-2b2b2b?style=flat-square&logo=zedindustries&logoColor=white)
@@ -14,12 +15,15 @@ Developer based in Stuttgart, Germany. I build small tools and utilities, mostly
 
 </div>
 
+---
+
 ## About
 
-- I like writing tools that do one thing well — small, fast, and easy to read
-- Currently learning Zig and low-level programming
-- Working mainly on Windows, using Zed as my editor
-- Most of my projects exist because I wanted to understand how something works
+I like tools that do **one thing well** — small, fast, and easy to read through in a single sitting. Most of what I build starts the same way: I want to understand *how* something works, so I write a smaller version of it myself.
+
+Right now that means going deeper into **Zig** and low-level programming, working mainly on **Windows** with **Zed** as my editor of choice.
+
+---
 
 ## Projects
 
@@ -31,8 +35,7 @@ Developer based in Stuttgart, Germany. I build small tools and utilities, mostly
 
 A tiny, fast, customizable shell for Windows — built to be lightweight without giving up flexibility.
 
-![Code](https://img.shields.io/badge/Code-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
-![Stars](https://img.shields.io/github/stars/7Raku/owlsh?style=flat-square&label=Stars&color=2b2b2b)
+![Code](https://img.shields.io/badge/-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -41,8 +44,7 @@ A tiny, fast, customizable shell for Windows — built to be lightweight without
 
 A small `wc`-inspired CLI tool that counts lines, words, and bytes — written as a hands-on way to learn Zig.
 
-![Code](https://img.shields.io/badge/Code-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
-![Stars](https://img.shields.io/github/stars/7Raku/wczig?style=flat-square&label=Stars&color=2b2b2b)
+![Code](https://img.shields.io/badge/-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
 
 </td>
 </tr>
