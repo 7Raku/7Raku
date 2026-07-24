@@ -29,7 +29,7 @@ Right now that means going deeper into **Zig** and low-level programming, workin
 
 <table style="margin-top:0">
 <tr>
-<td width="50%" valign="top" style="padding-top:8px">
+<td width="33%" valign="top" style="padding-top:8px">
 
 <h3 style="margin-top:0">
 
@@ -44,7 +44,7 @@ A tiny, fast, customizable shell for Windows - built to be lightweight without g
 ![Type](https://img.shields.io/badge/Type-Shell-2b2b2b?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
-<td width="50%" valign="top" style="padding-top:8px">
+<td width="33%" valign="top" style="padding-top:8px">
 
 <h3 style="margin-top:0">
 
@@ -53,6 +53,20 @@ A tiny, fast, customizable shell for Windows - built to be lightweight without g
 </h3>
 
 A small `wc`-inspired CLI tool that counts lines, words, and bytes - written as a hands-on way to learn Zig.
+
+![Code](https://img.shields.io/badge/Code-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
+![Type](https://img.shields.io/badge/Type-CLI-2b2b2b?style=flat-square&logo=windowsterminal&logoColor=white)
+
+</td>
+<td width="33%" valign="top" style="padding-top:8px">
+
+<h3 style="margin-top:0">
+
+[quill](https://github.com/7Raku/quill)
+
+</h3>
+
+A terminal typing speed test - measures WPM and accuracy right from the command line.
 
 ![Code](https://img.shields.io/badge/Code-Zig-2b2b2b?style=flat-square&logo=zig&logoColor=white)
 ![Type](https://img.shields.io/badge/Type-CLI-2b2b2b?style=flat-square&logo=windowsterminal&logoColor=white)
