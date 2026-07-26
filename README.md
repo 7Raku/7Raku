@@ -18,10 +18,9 @@
 ---
 
 ## About
+I'm into building small tools from scratch. I like figuring out how things work under the hood, so instead of just using a tool I often end up writing my own version of it.
 
-I like tools that do **one thing well** - small, fast, and easy to read through in a single sitting. Most of what I build starts the same way: I want to understand *how* something works, so I writ[...]
-
-Right now that means going deeper into **Zig** and low-level programming, working mainly on **Windows** with **Zed** as my editor of choice.
+Currently learning **Zig** and low-level programming, working mainly on **Windows** with **Zed** as my editor.
 
 ---
 
